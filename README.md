@@ -1,2 +1,17 @@
-# analisis-datos-postulacion-universitaria
-Análisis de postulantes universitarios para apoyar decisiones académicas mediante KPIs y exploración de datos (Excel, SQL/MySQL, Power BI).
+# Análisis de Postulación Universitaria
+
+Herramientas utilizadas:
+- Excel
+- SQL / MySQL
+- Power BI (si aplica)
+
+Descripción:
+Proyecto de análisis de datos enfocado en el estudio de
+postulantes universitarios, evaluando variables como
+modalidad de ingreso, resultados y tendencias de postulación.
+El objetivo es identificar patrones y apoyar la toma de
+decisiones académicas.
+
+Autor:
+Joseph Farid Rojas Manrique
+
