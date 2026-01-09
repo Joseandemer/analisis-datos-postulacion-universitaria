@@ -3,7 +3,7 @@
 Herramientas utilizadas:
 - Excel
 - SQL / MySQL
-- Power BI (si aplica)
+- Power BI 
 
 Descripción:
 Proyecto de análisis de datos enfocado en el estudio de
